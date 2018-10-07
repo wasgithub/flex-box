@@ -1,8 +1,8 @@
-.cabecalhoPrincipal .container {
+/* .cabecalhoPrincipal .container {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-}
+} */
 
 /* .cabecalhoPrincipal-nav {
 	display: flex;
@@ -29,13 +29,14 @@
 	display: flex;
 } */
 
-.rodapePrincipal-navMap-list {
+/* .rodapePrincipal-navMap-list {
 	display: flex;
-	/*flex-direction: column;
-	flex-wrap: wrap;*/
 	flex-flow: column wrap;
 	height: 250px;
-}
+} */
+
+/*flex-direction: column;
+flex-wrap: wrap;*/
 
 /* .conteudoPrincipal-cursos {
 	display: flex;
